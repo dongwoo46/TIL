@@ -10,31 +10,34 @@
 # <span style="color:black"> **꾸미는 방법** : 
 [https://www.markdownguide.org/cheat-sheet/] 참고
 
-1. \# >헤딩 - 문서의 제목이나 소제목으로 사용
-		#의 개수에 따라 제목의 수준을 구별(h1~h6)
-		문서 구조의 기본, 글자 크기를 키우기 위해서 사용X
+1. **\# >헤딩** - 
+* 문서의 제목이나 소제목으로 사용
+* #의 개수에 따라 제목의 수준을 구별(h1~h6)
+* 문서 구조의 기본, 글자 크기를 키우기 위해서 사용X
 	
-2.	1.2.3.  and *- > 리스트 순서가 있는 리스트와 없는 리스트
+2.	**1.2.3.  and \*-** > 리스트 순서가 있는 리스트와 없는 리스트
 		목록표시
 
-3.	\```code black``` or \`inline code block` > 코드블럭
-		구문 강조!
+3.	**\```code black``` or \`inline code block` > 코드블럭**
+		
+        구문 강조!
 
-4.	\[string](url) > 링크 
+4.	**\[string](url) > 링크**
 string은 보여지는 부분 url은 연결할 곳 나타냄
 다른 페이지로 이동하는 링크 삽입
 파일 경로를 넣어 다운로드 가능한 링크도 가능
 
-4. ![string](img_url) > 이미지
+1. **![string](img_url) > 이미지**
 	이미지를 삽입 / 이미지 너비와 높이 조절x / 조절필요하면 html사용
 
-5. \*\*Bold**   \*italic* \~~strikeout~~ > 텍스트 강조
-	굵게 , 기울임, 취소선을 이용해 텍스트강조
+2. **\*\*Bold\*\*   \*italic\* \~~strikeout~~ > 텍스트 강조**
+	
+    순서대로 굵게 , 기울임, 취소선을 이용해 텍스트강조
 
-6. — (마이너스 3개 이상) > 수평선
+3. **— (마이너스 3개 이상) > 수평선**
 	가로로 긴 수평선 작성
 
-7. \<span style="color:pink"> 글자 색 바꾸기
+4. **\<span style="color:pink"> 글자 색 바꾸기**
 
 
  # <span style="color:pink"> **Git/Github 사용법**
@@ -57,10 +60,10 @@ string은 보여지는 부분 url은 연결할 곳 나타냄
   * 파일을 버전관리하며 Git사용하자
     * commit한다 = 특정 버전(3가지 영역을 바탕으로 동작)으로 남긴다
         * 특정버전 3가지
-       1. working directory = 작업영역
-       2. staging Area  = commit으로 남기고 싶은 내용
+         1. working directory = 작업영역
+         2. staging Area  = commit으로 남기고 싶은 내용
           (변경사항을 저장)
-       3. repository = commit을 저장 (저장소)
+         3. repository = commit을 저장 (저장소)
 
 
 ## <span style="color:red">명령어!
