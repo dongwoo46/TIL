@@ -1,4 +1,4 @@
-# MarkDown 
+# <span style="color:black"> **MarkDown** 
 * 텍스트 기반의 가벼운 마크업언어(태그를 이용)
 * 문서의 구조와 내용을 같이 쉽고 빠르게 적고자 탄생
 * README.md 파일을 통해 오픈 소스의 공식 문서 작성
@@ -7,7 +7,7 @@
 * 블로그 운영 
 
 
-# 꾸미는 방법 : 
+# <span style="color:black"> **꾸미는 방법** : 
 [https://www.markdownguide.org/cheat-sheet/] 참고
 
 1. \# >헤딩 - 문서의 제목이나 소제목으로 사용
@@ -17,7 +17,7 @@
 2.	1.2.3.  and *- > 리스트 순서가 있는 리스트와 없는 리스트
 		목록표시
 
-3.	```code black``` or `inline code block` > 코드블럭
+3.	\```code black``` or \`inline code block` > 코드블럭
 		구문 강조!
 
 4.	\[string](url) > 링크 
@@ -34,10 +34,12 @@ string은 보여지는 부분 url은 연결할 곳 나타냄
 6. — (마이너스 3개 이상) > 수평선
 	가로로 긴 수평선 작성
 
+7. \<span style="color:pink"> 글자 색 바꾸기
 
- # <span style="color:pink"> Git/Github 사용법
 
-**`## Git 기본기`**
+ # <span style="color:pink"> **Git/Github 사용법**
+
+## <span style="color:pink">Git 기본기
 
 * README.md
    * 프로젝트설명 문서
