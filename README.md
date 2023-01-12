@@ -101,6 +101,8 @@
 15. git diff README.md >> unstaged 내용확인
 16. git push origin main >> 오리진 메인에 올려주겠다. - origin main 원격 저장소
 17. git clone 파일을 복사할 주소
+ 
+git remote --help > remote 도움말 알 수 있다!
 
 ` ls -a 모든 파일 보기 숨겨진것도`
 
