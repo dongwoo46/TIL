@@ -10,7 +10,6 @@ else:
     cnt0+=1
 
 
-
 #모두 0으로 만듦
 for i in range(len(s)-1):
         if s[i] != s[i+1]:
