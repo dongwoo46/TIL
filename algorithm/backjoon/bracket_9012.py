@@ -13,26 +13,49 @@ for i in range(n):
         if bk in bracket_list:
             stack.append(bk)
 
-        if len(stack)!=0:
-            if bk == ')' and stack[-1] == '(':
-                stack.pop()
-
-            elif bk == '}' and stack[-1] == '{':
-                stack.pop()
-
-            elif bk == ']' and stack[-1] == '{':
-                stack.pop()
-
-        if len(stack) == 0:
-            if bk == ')'or bk =='}' or bk==']':
+        elif bk == ')':
+            if len(stack)!=0:
+                if stack[-1] == '(':
+                    stack.pop()
+            else:
+                print('NO')
+                break
+        elif bk =='}':
+            if len(stack)!=0:
+                if stack[-1] == '{':
+                    stack.pop()
+            else:
+                print('NO')
+                break
+        elif bk == ']':
+            if len(stack)!=0:
+                if stack[-1] == '[':
+                    stack.pop()
+            else:
                 print('NO')
                 break
 
     else:
         if len(stack) == 0:
-            print('Yes')
+            print('YES')
         else:
             print('NO')
+
+        # if len(stack)!=0:
+        #     if bk == ')' and stack[-1] == '(':
+        #         stack.pop()
+        #
+        #     elif bk == '}' and stack[-1] == '{':
+        #         stack.pop()
+        #
+        #     elif bk == ']' and stack[-1] == '{':
+        #         stack.pop()
+        #
+        # else:
+        #     if bk == ')'or bk =='}' or bk==']':
+        #         print('NO')
+        #         break
+
 
 
 
