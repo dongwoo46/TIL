@@ -23,5 +23,6 @@ for tc in range(1,T+1):
 
     print(f'#{tc} {cnt}')
 
+#누적합 imos법으로 풀면 조흠
 
 
