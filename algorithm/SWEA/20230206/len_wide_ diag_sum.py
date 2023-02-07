@@ -20,20 +20,20 @@ for _ in range(1,11):
         if wide <= sum(i):
             wide = sum(i)
 
-
+    #세로합
     for i in range(100):
         length = 0
         for j in range(100):
             length += hund_map[j][i]
         if length >= length_max:
             length_max = length
-
+    #대각선 합 좌->우
     for i in range(100):
         for j in range(100):
             if i == j:
                 diagnol1 += hund_map[i][j]
 
-
+    #대각선 합 우->좌
     for i in range(100):
         for j in range(99,-1,-1):
             if i+j == 100:
