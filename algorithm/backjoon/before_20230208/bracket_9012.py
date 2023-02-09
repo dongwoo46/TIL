@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input','r')
+sys.stdin = open('input', 'r')
 
 
 n = int(input())
