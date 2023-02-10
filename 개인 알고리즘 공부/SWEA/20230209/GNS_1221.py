@@ -28,7 +28,7 @@ def pre_precessing(pattern):
             j += 1
         else:
             j = 0 #다시 맨 앞부터 비교 
-            if patter[i] != pattern[j]:
+            if patter[i] == pattern[j]:
                 next[i] = j+1
                 i+= 1
     return next 
