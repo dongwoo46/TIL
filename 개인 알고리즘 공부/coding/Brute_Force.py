@@ -4,8 +4,8 @@ M = len(p) #찾을 패턴길이
 N = len(t) #전체 텍스트 길이
 
 def BruteForce(p,t):
-    i = 0 #t의 인덱스
-    j = 0 #p의 인덱스
+    i = 0 #t의 인덱스 , t=long
+    j = 0 #p의 인덱스, p = short
     while j<len(p) and i<len(t):
         if t[i] != p[j]:
             i = i-j

@@ -10,6 +10,7 @@
 '''
 import sys
 sys.stdin = open("input.txt", "r")
+
 def open_window(arr):
     window = [0,0]
     count = []

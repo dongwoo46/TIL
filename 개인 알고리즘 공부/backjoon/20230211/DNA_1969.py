@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input','r')
+sys.stdin = open('../20230212/input', 'r')
 
 n, m = list(map(int,input().split()))
 

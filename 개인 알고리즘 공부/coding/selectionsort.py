@@ -8,3 +8,6 @@ def selectionsort(arr, N):
                 minidx = j
         #arr[i]와 arr[minidx]의 위치를 서로 바꿔준다!
         arr[i], arr[minidx] = arr[minidx], arr[i]
+    return arr
+
+print(selectionsort([2,3,5,7,9,1,2], 7))

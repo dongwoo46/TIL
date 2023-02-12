@@ -5,7 +5,7 @@ counts = [0] * (max(arr)+1)
 for i in arr:
     counts[i] +=1
 
-for j in range(1,len(arr)):
+for j in range(1,len(counts)):
     counts[i] = counts[i]+ counts[i-1]
 
 temp = [0] * len(arr)
@@ -16,3 +16,18 @@ temp = [0] * len(arr)
 for num in arr:
     temp[counts[num]-1] = counts[num]
     counts[num]-=1
+
+
+counts = [0]*(max(arr)+1)
+
+for i in arr:
+    counts[i] +=1
+
+for i in range(1,len(counts)):
+    counts[i] = counts[i]+counts[i-1]
+
+temp = [0] * len(arr)
+
+for num in arr:
+    temp[counts[num]-1] = num
+    counts[num] -= 1
