@@ -25,6 +25,9 @@ for i in range(n):
             for row in eight_board:
                 cnt += sum(row)
             cnt_list.append(cnt)
+#eight_board를 eight_list에 넣는다. 그리고 for문을 돌려서 각 eight_board의 열을
+#각각 합해서 총 합이 32에 가장 가까운 것을 고른다. 그후 그 고른 eight_board의 총합에서
+#32를 빼고 절대값을 씌우면 값이 나온다!!
 
 
 
