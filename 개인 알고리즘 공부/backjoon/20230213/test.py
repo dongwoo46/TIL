@@ -1,3 +1,3 @@
-a= [[1, -1], [1, 1], [2, 2], [3, 3], [3, 4]]
-for i in range(5):
-    print(*a[i])
+path = list(map(int, input().split()))
+list_chunk(path,2)
+print(path)
