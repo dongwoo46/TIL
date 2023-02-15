@@ -4,6 +4,7 @@ sys.stdin = open('input','r')
 n, m = list(map(int,input().split()))
 chess = [input() for _ in range(n)]
 board = [[0]*m for j in range(n)]
+res = []
 
 for i in range(n):
     for j in range(m):
@@ -15,26 +16,32 @@ min_cnt = 100000000
 #8*8행렬로 큰 행렬을 짜르고 만약 그 안의 합이 32에 가장 가까운것을 고름
 for i in range(n-8+1):
     for j in range(m-8+1):
-        eight_board = []
-        cnt = 0
-        if i%8==0 and j%8==0:
-            for k in range(i,i+8):
-                for l in range(j,j+8):
-                    eight_board.append(board[k][l])
-            cnt = sum(eight_board)
+        cnt1 = 0
+        cnt2 = 0
 
+        for k in range(i,i+8):
+            for l in range(j,j+8):
+                if (k+l)%2 == 0:
+                    if board[k][l] != 1:
+                        cnt1 +=1
+                    if board[k][l] != 0:
+                        cnt2 +=1
+                else:
+                    if board[k][l] != 0:
+                        cnt1+= 1
+                    elif board[k][l] != 1:
+                        cnt2 +=1
+        res.append(cnt1)
+        res.append(cnt2)
 
-        # for k in range(i,i+8):
-        #     for l in range(j,j+8):
-        #
-        #         if board[k][l] == 1:
-        #             cnt+=1
-        # cnt = sum(eight_board)
-
-        if abs(cnt -32) < min_cnt:
-            min_cnt = abs(cnt-32)
-
+min_cnt = min(res)
 print(min_cnt)
+
+
+
+
+
+
 
 
 #eight_board를 eight_list에 넣는다. 그리고 for문을 돌려서 각 eight_board의 열을

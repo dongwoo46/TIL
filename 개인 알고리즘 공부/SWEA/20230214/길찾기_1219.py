@@ -7,14 +7,14 @@ def list_chunk(lst, n):
 for tc in range(1,11):
     tc, long = list(map(int, input().split()))
     path = list(map(int, input().split()))
-    list_chunk(path,2)
-    print(path)
+    path = list_chunk(path, 2)
     visited = [False] * 100
     graph = [[] for _ in range(100)]
     res = []
     for i in range(long):
         graph[path[i][0]].append(path[i][1])
-    print(graph)
+
+
 
     def dfs(graph, v, visited):
         visited[v] = True
@@ -24,6 +24,11 @@ for tc in range(1,11):
                 dfs(graph, i, visited)
 
     dfs(graph,0,visited)
+
+    if 99 in res:
+        print(f'#{tc}', 1)
+    else:
+        print(f'#{tc}' ,0)
 
 
 
