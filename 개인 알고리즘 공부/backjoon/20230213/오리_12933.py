@@ -3,38 +3,9 @@ sys.stdin = open('input','r')
 
 cry = list(input())
 cnt=0
-stack1 = []
 quack = [0] * len(cry)
 
-def duck(start):
-    global cnt
-    first = 0
 
-    for i in range(len(cry)):
-        if cry[i] == 'q' and quack[i] == 0:
-            stack1.append(cry[i])
-            quack[i] = 1
-            # previous = cry[i]
-        elif stack1[-1] == 'q'  and  cry[i] == 'u':
-            if quack[i] == 0:
-                quack[i] = 1
-                stack1.append(cry[i])
-
-        elif stack1[-1] == 'u' and cry[i] == 'a':
-            if quack[i] == 0:
-                stack1.append(cry[i])
-                quack[i]
-                c = i
-        elif 'a' in stack1 and cry[i] == 'c':
-            if quack[i] == 0:
-                stack1.append(cry[i])
-                d = i
-        elif 'c' in stack1 and cry[i] == 'k':
-            if quack[i] == 0:
-                stack1.append(cry[i])
-                e = i
-    if stack1:
-        cnt += 1
         # elif len(stack1) !=0:
         #     if stack1[-1] == 'q' and a == 'u':
         #         stack1.append(a)
@@ -48,4 +19,56 @@ def duck(start):
         #         cnt+=1
 
 
-print(cnt)
+if len(cry)%5 !=0:
+    print(-1)
+    exit()
+
+def duck(start):
+    global cnt
+    first = 0
+    check_q = 0
+    previous = None
+    for i in range(len(cry)):
+        if quack[i] == 0 and cry[i] == 'q' and check_q == 0:
+            check_q = 1
+            previous = cry[i]
+            quack[i] = 1
+            continue
+        elif not quack[i] and cry[i] == 'q' and previous == 'k':
+            quack[i] = True
+            previous = cry[i]
+            continue
+            # previous = cry[i]
+        if quack[i] == 0 and cry[i] == 'u' and previous == 'q':
+            quack[i] = 1
+            previous = cry[i]
+            continue
+
+        if quack[i] == 0 and cry[i] == 'a' and previous == 'u':
+            quack[i] = 1
+            previous = cry[i]
+            continue
+
+        if quack[i] == 0 and cry[i] == 'c' and previous == 'a':
+            quack[i] = 1
+            previous = cry[i]
+            continue
+        if quack[i] == 0 and cry[i] == 'k' and previous == 'c' and first == 0:
+            previous = cry[i]
+            quack[i] = 1
+            cnt+=1
+            first = 1
+            continue
+        elif quack[i] == 0 and cry[i] =='k' and previous == 'c' and first == 1:
+            previous = cry[i]
+            quack[i] = 1
+            continue
+
+for i in range(len(cry)):
+    if cry[i] == 'q' and quack[i] == 0:
+        duck(i)
+
+if 0 in quack or cnt == 0:
+    print(-1)
+else:
+    print(cnt)
