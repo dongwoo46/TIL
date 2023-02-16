@@ -10,11 +10,11 @@ dy = [0, 0, -1, 1]
 
 def move(maze):
     # 상하좌우 4방향 확인해서 인덱스 범위 안넘고 미로값이  0이면
-    # if not stack:
-    #     print(maze)
-    # else:
-    #     print(stack[-1])
-    #     print(stack)
+    if not stack:
+        print(maze)
+    else:
+        print(stack[-1])
+        print(stack)
     if stack:
         #상하좌우 4가지 방향 체크
         for direction in range(4):
@@ -66,6 +66,7 @@ for tc in range(1, T + 1):
             elif maze[i][j] == '2':
                 visited[i][j] = 1
                 stack.append((i, j))
+
     if not stack:
         print(f'#{tc}',0)
     else:

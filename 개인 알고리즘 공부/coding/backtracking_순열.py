@@ -28,4 +28,5 @@ def construct_candidates(a,k,input,c):
 
 
 NMAX = 11
-MAXCANDIDATES =
+MAXCANDIDATES #안에 들어가는 수 최대 2개
+NMAx #배열크기
