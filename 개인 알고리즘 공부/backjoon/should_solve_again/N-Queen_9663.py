@@ -40,3 +40,4 @@ for i in range(n):
     location(x,y)
 
 
+ 
