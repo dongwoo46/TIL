@@ -14,6 +14,10 @@
 def f(i,k):
     if i == k:
         print(bit)
+        for j in range(k):
+            if bit[j]:
+                print(A[j], end=' ')
+        print()
     else:
         bit[i] = 1
         f(i+1,k)
