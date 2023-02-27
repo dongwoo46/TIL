@@ -6,6 +6,7 @@ def f(start,k):
                 print(A[j], end=' ')
         print()
 
+
     for i in range(start, len(A)):
         bit[i] = 1
         f(i+1,k+1)

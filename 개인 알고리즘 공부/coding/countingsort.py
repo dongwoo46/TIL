@@ -23,7 +23,7 @@ counts = [0]*(max(arr)+1)
 for i in arr:
     counts[i] +=1
 
-for i in range(1,len(counts)):
+for i in range(1, len(counts)):
     counts[i] = counts[i]+counts[i-1]
 
 temp = [0] * len(arr)
