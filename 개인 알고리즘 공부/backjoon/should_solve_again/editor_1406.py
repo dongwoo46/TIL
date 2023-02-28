@@ -24,7 +24,7 @@ print(''.join(str1))
 
 ##리스트 슬라이싱 문제풀이
 import sys
-sys.stdin = open('../20230212/input', 'r')
+sys.stdin = open('../2월백준/20230212/input', 'r')
 
 s = input()
 str = s + '*'

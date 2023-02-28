@@ -57,9 +57,8 @@ for tc in range(1,T+1):
         password.append(conversion.get(''.join(w)))
 
     print(password)
-
-
     print(f'#{tc}',checksum(password))
+
 
 
 # 0111011 0110001 0111011 0110001 0110001 0001101 0010011 0111011

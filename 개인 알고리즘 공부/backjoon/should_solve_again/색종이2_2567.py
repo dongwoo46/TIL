@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('../20230212/input', 'r')
+sys.stdin = open('../2월백준/20230212/input', 'r')
 n = int(input())
 paper = []
 for _ in range(n):
