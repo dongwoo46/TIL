@@ -1,3 +1,2 @@
-a = list(map(int,input().split()))
-a.sort(reverse=True)
-print(a)
+a = [1,2,3,4,5]
+print(sum(a[1:3]))
