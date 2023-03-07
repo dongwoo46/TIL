@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>selector</title>
+        <style>
+            *{
+                color: red
+            }
+            h2 {
+                color: orange
+            }
+
+            h3,
+            h4 {
+                font-size: 10px
+            }
+        </style>
+        <style>
+            /* 클랙스 선택자*/
+            .green {
+                color: green
+            }
+            /* id 선택자*/
+            #purple {
+                color: purple
+            }
+            /*자식 결합자*/ 
+            .box > p {
+                color: blue
+            }
+            /* 자손 결합자 */
+            .box p {
+                color: skyblue
+            }
+
+        </style>
+    </head>
+</html>
+<body>
+    <h1 class="green">SSAFY</h1>
+    <h2>선택자연습</h2>
+    <div class="green box">
+        box  contentts
+        <div>
+            <p>지역목록</p>
+            <ul>
+                <li>서울</li>
+                <li id="purple">인천</li>
+                <li>강원</li>
+                <li>경기</li>
+            </ul>
+        </div>
+        <p>lorem +tab : 랜덤 문자 자동생성</p> 
+    </div>
+    <h3>hello</h3>
+    <h4>CSS</h4>
+</body>
