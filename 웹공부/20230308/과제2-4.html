@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    /* 자손결합자 */
+    div p {
+    color: blue;
+  }
+    /* 자식 결합자 */
+    div > p {
+        color: crimson;
+    }
+  </style>
+  
+
+<!-- <p는 문단으로 형성되어 있어서 문단안에 문단 못 집어넣음 그래서 안되는거 그래서 ul로 바꿔주고 다시 p해줌></p> -->
+</head>
+<body>
+    <div>
+        <p>자식</p>
+            <ul><p>손자</p>
+            </ul>
+        <p>자식</p>
+    </div> 
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        h4 {
+            font-size: 20px;
+            font-weight: bold;
+            font-family: Arial;
+        }
+
+        p {
+            font-family: Arial;
+        }
+        .card {
+            border: 2px dashed black;           
+            width: 700px;
+            margin:auto;
+            height: 650px;          
+        }
+        .card-nav{
+            text-align: center;
+            background-color: green;
+        }
+
+        .card-header {
+            padding: 10px;
+        }
+
+        .card-img{
+            display: block;
+            width: 100%;
+            height: 330px;
+        }
+
+        .card-img-description {
+            height: 70px;
+            text-align: center;
+            line-height: 35px;
+            background-color: green;
+            color: white;
+        }
+
+        .card-body{
+            padding: 18px;
+        }
+
+        .card-body-title {
+            position: relatvie;
+        }
+
+        .card-body-title>h4{
+            display:inline;
+        }
+
+        .card-body-title>p {
+            position: absolute;
+            right: 0;
+            top: 10px;
+            display: inline;
+        }
+
+        .card-body-content {
+            margin-top:100px;
+            padding:100px;
+            background-color: linen;
+        }
+
+        .card-footer{
+            text-align: end;
+            padding: 10px;
+            background-color: rgb(27,100,20 );
+            color: white;
+        }
+        .line {
+            border: 1px solid black;
+            border-bottom: none;
+            border-left: none;
+            border-right:none;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="card-nav" >
+            오늘의 명소
+        </div>
+        <img class="card-img" src="29KBXXSHW8_1.jpg" alt="해린" width=100;>
+        <div class="card-img-description">제주도 <br>
+            성산 일출봉 
+        </div>
+        <div class="card-body">
+            <div class="card-body-title"><h4>제주도 서귀포시 성산읍</h4></div>
+                <div style="text-align:right">2023.03.08</div>
+                <div class="line"></div>
+                <p class="card-body-content">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae tenetur cumque quaerat temporibus veniam! Dolor, rem cupiditate esse commodi eos eveniet numquam. Qui delectus facilis similique quod unde. Inventore, aperiam.</p>
+                </div>
+            <div style="text-align: left; margin:10px">ssafy</div>
+        </div>
+    </div>
+    
+    
+</body>
+</html>
