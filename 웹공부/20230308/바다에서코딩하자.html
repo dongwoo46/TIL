@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        h4 {
+            font-size: 30px;
+            font-weight: bold;
+            font-family: Arial;
+        }
+
+        p {
+            font-family: Arial;
+        }
+        .card {
+            border: 2px solid black;           
+            width: 700px;
+            margin:auto;
+            height: 800px;          
+        }
+        
+        .card-body-title {
+            position: relatvie;
+        }
+
+        .card-body-title>h4{
+            display:inline;
+        }
+
+        .card-body-title>p {
+            position: absolute;
+            right: 0;
+            top: 10px;
+            display: inline;
+        }
+
+        .card-body-content {    
+            width: 480px;
+            height: 300px;
+            padding: 10px;
+            text-align: center;
+            background-color: linen;
+            position: absolute;
+            left:250px;
+            top:350px;
+            font-family: 굴림;
+            color: skyblue;
+        }
+        .card-submit {
+            position: absolute; 
+            left:200px; 
+            top:250px
+        }
+        .card-nav{
+            text-align: center;
+            background-color: green;
+        }
+
+        .card-footer{
+            text-align: end;
+            padding: 10px;
+            background-color: rgb(27,100,20 );
+            color: white;
+        }
+        .line {
+            border: 1px solid black;
+            border-bottom: none;
+            border-left: none;
+            border-right:none;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="다운로드.jpg" alt="바다" width=698; margin:Auto;>
+            <p style="position: absolute; left:200px; top:200px; font-size: 30px; color:white; font-family:굴림; font-weight:500; text-shadow:-1px 0px black,0px 2px black, 2px 0px black, 0px -1px black;">이제 바다에서 코딩하자!!</p>
+            <form action="#">
+                <div>
+                    <label for="name"></label><br>
+                    <input class="card-submit" type="submit" id="name" name="name" value="제출하기" autofocus>
+                </div>
+        <div class="card-body-content">
+            <p><h4>여기서 모두 공부하세요</h4></p><br>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam quisquam incidunt praesentium rerum blanditiis excepturi iure aperiam, maxime pariatur cupiditate sed facilis sunt minima quam tenetur libero quaerat suscipit dolorem?</p><br>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos sit minus provident exercitationem natus beatae facere quae quas, laboriosam sint illum ullam voluptatibus numquam placeat pariatur ea neque animi incidunt!</p>
+        </div>
+        
+    </div>
+        
+    
+</body>
+</html>

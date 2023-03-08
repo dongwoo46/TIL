@@ -1,0 +1,38 @@
+.my-class {
+    margin-top: 10px;
+    margin-bottom: 10;
+    margin-top: 10px;
+}
+
+.box {
+    background-color: midnightblue;
+    width: 100px;
+    height: 100px;
+/* 
+    margin-top: 20px; */
+/* 
+    margin-right: auto;
+    margin-left: auto; */
+    /* margin-right: auto;
+    margin-left: auto; */
+    margin: 20 auto;
+    text-align: center;
+    /* <!--인라인으로 요소변경--> */
+    display: inline; 
+}
+
+span {
+
+    line-height: 50;
+}
+
+.test {
+    display: none;
+    visibility: hiddent;
+}
+
+.sticky {
+    position: sticky;
+    top:20px;
+    background-color: orange;
+}
