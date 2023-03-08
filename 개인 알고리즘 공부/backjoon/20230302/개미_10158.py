@@ -9,7 +9,7 @@ direction = 0
 delta = [(1,1),(-1,1),(-1,-1),(-1,1)]
 
 while time!=t:
-    if t
+    if t:
     np = p + delta[direction][0]
     nq = q + delta[direction][1]
     if 0 <= np < w + 1 and 0 <= nq < h + 1:
