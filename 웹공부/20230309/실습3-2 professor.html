@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .login-wrap {
+        margin-left: 10vw;
+        margin-right: 10vw;
+    }
+
+    .red-banner {
+        display: flex;
+        justify-content: flex-start;
+        background-color: red;
+        height: 40px;
+        color: white;
+        align-items: center;
+        padding: 15px;
+        border-radius: 5px;
+    }
+
+    h1 {
+        font-weight: 600;
+        font-size: xx-large;
+    }
+    /* 선을 그어줌 아무것도 없는 div 을 만들어서 */
+    .grey-divider {
+        border: 1px solid lightgrey;
+    }
+
+    .signin-form-wrap {
+        border: 1px solid lightgrey;
+        margin-top: 30px;
+        border-radius: 5px;
+    }
+
+    .signin-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        font-weight: bold;
+    }
+
+    .blue-divider {
+        border: 2px solid rgb(46, 46, 236);
+    }
+
+    .signin-form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-label {
+        font-weight: bold;
+        font-size: large;
+        padding: 10px 10px;
+    }
+
+    .signin-input {
+        border: 1px solid lightgrey;
+        border-radius: 4px;
+        height: 30px;
+        margin: 0px 10px;
+    }
+
+    .password-find {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 10px;
+    }
+
+    .password-find a {
+        color: blue;
+    }
+
+    .sign-in-btn {
+        height: 45px;
+        border-radius: 4px;
+        border: 1px solid yellowgreen;
+        background-color: yellowgreen;
+        color: white;
+        font-size: large;
+        margin: 20px 20px;
+        text-decoration: none;
+    }
+
+
+  </style>
+</head>
+<body>
+  <!-- 전체 form 이 들어가는 영역입니다. -->
+  <section class="login-wrap">
+    <!-- 빨간색 배너 -->
+    <div class="red-banner">
+      <div>
+        <span>Invalid Login or password.</span>
+      </div>
+    </div>
+    <!-- 제목 -->
+    <h1>SSAFY 전용 GitLab 시스템</h1>
+    <!-- 구분선 -->
+    <div class="grey-divider"></div>
+    <!-- 로그인 영역 전체 -->
+    <div class="signin-form-wrap">
+      <!-- 로그인 제목 -->
+      <div class="signin-title">
+        <div>
+          <span>Sign in</span>
+        </div>
+      </div>
+      <div class="blue-divider"></div>
+      <!-- 로그인 form 영역 -->
+      <form class="signin-form">
+        <label class="input-label" for="username">Username or Email</label>
+        <input class="signin-input" id="username" type="text">
+        <label class="input-label" for="password">Password</label>
+        <input class="signin-input" type="password" id="password">
+        <div class="password-find">
+          <div>
+            <input type="checkbox">
+            <span>Remember me</span>
+          </div>
+          <div>
+            <a href="">Forgot your password?</a>
+          </div>
+        </div>
+        <button class="sign-in-btn">
+          Sign in
+        </button>
+      </form>
+    </div>
+  </section>
+</body>
+</html>
