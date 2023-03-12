@@ -1,0 +1,10 @@
+from collections import deque
+q = deque()
+q.append((1,2))
+q2 = deque([1,2])
+print(q)
+print(q2)
+x, y = q.popleft()
+print(x,y)
+a, b = q2.popleft()
+print(a,b)
