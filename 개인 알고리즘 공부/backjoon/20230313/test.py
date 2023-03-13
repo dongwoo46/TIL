@@ -1,2 +1,2 @@
-a = set([[1,2],[2,3],[3,4]])
-print(a)
+arr = [0]
+print(bool(arr))
