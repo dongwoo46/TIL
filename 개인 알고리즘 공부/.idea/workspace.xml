@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15366f84-5790-4ea0-8efd-8afffd6e3334" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/TIL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230310/덩치 7568.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230310/덩치 7568.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +39,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230313" />
       <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\coding\나만의 정리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.backtracking">
-    <configuration name="부분집합의 합이 key와 같은 부분집합이 있으면 1 아니면 0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.N과M(12)">
+    <configuration name="N과M(10)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/나만의 정리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230313" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/나만의 정리/부분집합의 합이 key와 같은 부분집합이 있으면 1 아니면 0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230313/N과M(10).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="부분집합의 합이 key와 같은것만 봅기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과M(11)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/나만의 정리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230313" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/나만의 정리/부분집합의 합이 key와 같은것만 봅기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230313/N과M(11).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="부분집합의 합이 key인 부분집합 +가지치기하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과M(12)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/나만의 정리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230313" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/나만의 정리/부분집합의 합이 key인 부분집합 +가지치기하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230313/N과M(12).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="부분집합의 합이 key와 같은 부분집합 출력" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과M(9)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/나만의 정리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230313" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/나만의 정리/부분집합의 합이 key와 같은 부분집합 출력.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230313/N과M(9).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="backtracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/나만의 정리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230313" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/나만의 정리/backtracking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230313/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.backtracking" />
-        <item itemvalue="Python.부분집합의 합이 key인 부분집합 +가지치기하기" />
-        <item itemvalue="Python.부분집합의 합이 key와 같은 부분집합 출력" />
-        <item itemvalue="Python.부분집합의 합이 key와 같은 부분집합이 있으면 1 아니면 0" />
-        <item itemvalue="Python.부분집합의 합이 key와 같은것만 봅기" />
+        <item itemvalue="Python.N과M(12)" />
+        <item itemvalue="Python.N과M(11)" />
+        <item itemvalue="Python.N과M(10)" />
+        <item itemvalue="Python.N과M(9)" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +199,16 @@
           <url>file://$PROJECT_DIR$/coding/나만의 정리/backtracking.py</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/20230313/N과M(1).py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/20230313/N과M(5).py</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
