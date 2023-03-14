@@ -1,4 +1,4 @@
-a,b = list(map(int,input()))
+a,b = list(map(int,input().split()))
 
 #최대 공약수
 for i in range(min(a,b),0,-1):

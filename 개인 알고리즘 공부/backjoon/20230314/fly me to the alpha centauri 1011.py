@@ -1,22 +1,16 @@
 import sys
 sys.stdin = open('input','r')
 T = int(input())
-for tc in range(1,T+1):
-    s,e = map(int,input().split())
-    d = e-s
-    k = [0]*(d+1)
-    k[1] = 1
-    numb = 2
-    result = 2
-    loc = 2
+for tc in range(T):
+    a,b = map(int,input().split())
+    d = b-a
+    n = 0
     while True:
-        if k[-1]:
+        if d <= n*(n+1):
             break
-        for i in range(numb-1):
-            k[loc] = result
-            loc +=1
-            if k[-1]:
-                break
-        result+=1
-        numb+=1
-    print(k[d])
+        n+=1
+
+    if d<=n**2:
+        print(n*2-1)
+    else:
+        print(n*2)
