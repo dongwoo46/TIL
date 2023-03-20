@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('../20230305/input', 'r')
+sys.stdin = open('../3월백준/20230305/input', 'r')
 
 n = int(input())
 student = list(map(int,input().split()))
