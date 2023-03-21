@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15366f84-5790-4ea0-8efd-8afffd6e3334" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230317/input" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230317/input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230317/나이트의 이동 7562.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230317/나이트의 이동 7562.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +37,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230321" />
       <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230315" />
       <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230313" />
       <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\coding\나만의 정리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.랜선 자르기 1654">
+  <component name="RunManager" selected="Python.Hashing 15829">
     <configuration name="랜선 자르기 1654" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,27 +86,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="펠린드롬인지 확인하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="개인 알고리즘 공부" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230318" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230318/펠린드롬인지 확인하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="프린터큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +99,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230318/프린터큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hashing 15829" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="개인 알고리즘 공부" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230321" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230321/Hashing 15829.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Hashing 15829" />
         <item itemvalue="Python.랜선 자르기 1654" />
         <item itemvalue="Python.프린터큐" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.나무 자르기 2805" />
-        <item itemvalue="Python.펠린드롬인지 확인하기" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +229,11 @@
           <url>file://$PROJECT_DIR$/backjoon/20230319/랜선 자르기 1654.py</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/20230321/Hashing 15829.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
