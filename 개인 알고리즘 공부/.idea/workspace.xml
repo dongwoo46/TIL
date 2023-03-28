@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15366f84-5790-4ea0-8efd-8afffd6e3334" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230323/minheap 1927.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230323/최소힙 1927.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230323/section sum 11659.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230323/구간합 11659.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/3월백준/20230313 n과m/N과M(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/3월백준/20230313 n과m/N과M(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/3월백준/20230313 n과m/N과M(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/3월백준/20230313 n과m/N과M(2).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
       <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\coding\나만의 정리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.최소힙 1927">
+  <component name="RunManager" selected="Python.순열">
     <configuration name="피보나치 함수 1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1,2,3 더하기 9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230322" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230322/1,2,3 더하기 9095.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/순열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.순열" />
         <item itemvalue="Python.최소힙 1927" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.구간합 11659" />
         <item itemvalue="Python.피보나치 함수 1003" />
-        <item itemvalue="Python.1,2,3 더하기 9095" />
       </list>
     </recent_temporary>
   </component>
