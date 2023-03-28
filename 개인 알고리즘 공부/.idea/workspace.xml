@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15366f84-5790-4ea0-8efd-8afffd6e3334" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjoon/20230325/집합 11723.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/개인 알고리즘 공부.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230323/minheap 1927.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230323/최소힙 1927.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/20230323/section sum 11659.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230323/구간합 11659.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/20230323/최대 힙 11279.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230323/최대 힙 11279.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/20230324/sum 11659.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/20230324/구간합 구하기4 11659.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/20230324/ziphap 11723.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230326" />
+      <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230327" />
+      <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230324" />
+      <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230325" />
       <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230321" />
-      <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230315" />
-      <recent name="C:\Users\SSAFY\Desktop\TIL\개인 알고리즘 공부\backjoon\20230313" />
-      <recent name="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\coding\나만의 정리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.최소힙 1927">
-    <configuration name="피보나치 함수 1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.나는야 포켓몬 마스터 이다솜 1620">
+    <configuration name="나는야 포켓몬 마스터 이다솜 1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +55,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230322" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230325" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230322/피보나치 함수 1003.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230326\나는야 포켓몬 마스터 이다솜 1620.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="회의실 배정 1931" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="개인 알고리즘 공부" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230325" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dong\Desktop\TIL\개인 알고리즘 공부\backjoon\20230327\회의실 배정 1931.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,27 +131,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1,2,3 더하기 9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="개인 알고리즘 공부" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjoon/20230322" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjoon/20230322/1,2,3 더하기 9095.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="개인 알고리즘 공부" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.나는야 포켓몬 마스터 이다솜 1620" />
+        <item itemvalue="Python.회의실 배정 1931" />
         <item itemvalue="Python.최소힙 1927" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.구간합 11659" />
-        <item itemvalue="Python.피보나치 함수 1003" />
-        <item itemvalue="Python.1,2,3 더하기 9095" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +247,11 @@
           <url>file://$PROJECT_DIR$/backjoon/20230322/피보나치 함수 1003.py</url>
           <line>19</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjoon/20230326/나는야 포켓몬 마스터 이다솜 1620.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
