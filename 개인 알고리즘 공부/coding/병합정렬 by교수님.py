@@ -1,5 +1,5 @@
 import sys
-sys.stdin= open('input')
+sys.stdin= open('../../input')
 
 # 병합정렬 교수님
 
