@@ -21,7 +21,4 @@ def bfs(V, N):  #v 시작점 N 정점의 개수
                 q.append(i)# v인큐
                 visited[i] = visited[t] + 1 # v 인큐되었음 표시
         print(visited)
-
-
-
 bfs(1,v)
