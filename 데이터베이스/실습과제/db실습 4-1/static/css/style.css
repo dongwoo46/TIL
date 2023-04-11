@@ -1,0 +1,17 @@
+.like-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.like-btn:focus {
+  outline: none;
+}
+
+.like-btn i {
+  font-size: 1.2rem;
+}
+
+.like-btn.liked i {
+  color: red;
+}
