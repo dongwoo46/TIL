@@ -24,6 +24,13 @@ def create(request):
             article = form.save(commit=False)
             article.user = request.user
             article.save()
+            return redirect('articles:detail', article.pk)\
+        # 게시글의  content필드에서 #으로 시작하는 단어를 찾아
+        # 게시글과 hashtag 모델에 데이터 추가
+        for word in article.content.split():
+            if word.startswith('#'):
+                hashtag, created = Hashtag.objects.get_or_create(content=word)
+                article.hashtags.add(hashtag)
             return redirect('articles:detail', article.pk)
     else:
         form = ArticleForm()
