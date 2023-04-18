@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const p1 = ['rock', 'paper', 'scissors', 'scissors', 'rock', 'rock', 'paper', 'paper', 'rock', 'scissors']
+        const p2 = ['paper', 'paper', 'rock', 'scissors', 'paper', 'scissors', 'scissors', 'rock', 'rock', 'rock']
+        
+        let result = 0
+        const playGame = (p1_choice, p2_choice) => {
+            switch(p1_choice) {
+                case 'rock':
+                    return p2_choice === 'rock' ? 0 : (p2_choice ==='scissors'?1:2)
+                    //result = p2_choice === 'rock' ? 0 : (p2_choice ==='scissors'?1:2)
+                    break //break 가 필요하다!!!
+                case 'scissors':
+                    return p2_choice === 'rock' ? 2 : (p2_choice ==='scissors'? 0:1)
+                    // result = p2_choice === 'rock' ? 2 : (p2_choice ==='scissors'? 0:1)
+
+                    break //break 가 필요하다!!!
+                case 'paper':
+                    return p2_choice === 'rock' ? 1 : (p2_choice ==='scissors'? 2:0)
+                    // result =  p2_choice === 'rock' ? 1 : (p2_choice ==='scissors'? 2:0)
+                    break //break 가 필요하다!!!
+
+            }
+            return result
+
+
+        for (let i=0; i<p1.length; i++) {
+            console.log(playGame(p1[i],p2[i]))
+        }
+    }
+
+    // 2
+    // 0
+    // 2
+    // 0
+    // 2
+    // 1
+    // 2
+    // 1
+    // 0
+    // 2
+    </script>
+</body>
+</html>

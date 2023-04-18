@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 1번
+        const nums = [1,2,3,4,5,6,7,8]
+
+        for (let i = 0; i < nums.length; i++) {
+        console.log('nums[' + i + ']: ' + nums[i])
+        }
+
+        // for (const i = 0; i < nums.length; i++) {
+        //                                     ^
+
+        // TypeError: Assignment to constant variable.
+
+        //2번
+        // in은 key값을 방문함 key값은 string으로 설정됨
+        for (num of nums) {
+        console.log(`${num}, ${typeof num}`)
+        }
+
+        // 0 string
+        // 1 string
+        // 2 string
+        // 3 string
+        // 4 string
+        // 5 string
+        // 6 string
+        // 7 string
+
+    </script>
+</body>
+</html>

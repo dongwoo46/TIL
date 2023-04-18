@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        words = ['level', 'noon', 'mom', 'happy', 'ssafy', 'life']
+
+        function palindrome(word) {
+            const reversed = word.split('').reverse().join('')
+            
+            // if (reversed == word) {
+            //     return true;
+            // }
+            // else {
+            //     return false;
+            // }
+            return reversed === word ? true: false
+        }
+
+
+        for (const word of words) {
+        console.log(palindrome(word))
+        }
+
+    </script>
+</body>
+</html>
