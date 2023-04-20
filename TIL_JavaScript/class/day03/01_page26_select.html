@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1 id="title">DOM 조작</h1>
+  <p class="text">querySelector</p>
+  <p class="text">querySelectorAll</p>
+
+  <ul>
+    <li>Javascript</li>
+    <li>Python</li>
+  </ul>
+
+  <p>
+
+  </p>
+  
+  <a href=""></a>
+
+  <script>
+    // id = title인 쿼리 선택
+    console.log(document.querySelector('#title'))
+    // class = text인 쿼리 모두 선택
+    console.log(document.querySelectorAll('.text'))
+    // class = text인 처음 쿼리만 선택
+    console.log(document.querySelector('.text'))
+    // (body에속하고 ul에 속하는 li)li인 쿼리 모두 선택
+    console.log(document.querySelectorAll('body>ul>li'))
+    // // li인 쿼리 모두 선택
+    // console.log(document.querySelectorAll('li'))
+  </script>
+</body>
+</html>

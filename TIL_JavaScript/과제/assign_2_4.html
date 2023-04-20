@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Document</title>
+</head>
+<body>
+  
+  <script>
+    const inputs = [
+      [3, 10, 5, [1, 3, 5, 7, 9]],    // 3
+      [3, 10, 5, [1, 3, 7, 8, 9]],    // 0
+      [5, 20, 5, [4, 7, 9, 14, 17]],  // 4
+    ];
+
+    function solution(K, N, M, chargers) {
+        let now = 0;
+        let move = now + K;
+        let station = 0;
+        let cnt = 0;
+
+        while (move < N) {
+            for (const stop of chargers) {
+                if (now < stop && stop <= move) {
+                    station = stop;
+                } else if (move < stop) {
+                    break;
+                }
+            }
+
+            if (station === 0) {
+                cnt = 0;
+                break;
+            }
+
+            now = station;
+            move = now + K;
+            cnt++;
+            station = 0;
+        }
+
+        console.log(`#${tc} ${cnt}`);
+    }
+    
+    for (let tc = 1; tc <= inputs.length; tc++) {
+        const [K, N, M] = inputs[tc-1].slice(0, 3);
+        const chargers = inputs[tc-1][3];
+
+        solution(K, N, M, chargers);
+    }
+  </script>
+</body>
+</html>
