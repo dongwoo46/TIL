@@ -22,25 +22,31 @@
   <div></div>
   <script>
     // 이곳에 코드를 작성합니다.
+    const body = document.querySelector('body')
+    //aTag를 만든다.
     const aTag =  document.createElement('a')
+    //aTag 내부 필드를 설정한다.
     aTag.innerText = 'SSAFY'
+    aTag.href = 'https://ssafy.com'
 
-    aTag.setAttribute('href', 'https://ssafy.com')
-    console.log(aTag.getAttribute('href'))
+    //aTag body node에 추가한다
+    body.append(aTag)
 
-    const div = document.querySelector('div')
-    div.appendChild(aTag)
+    //클릭해도 안들어가게
+    // aTag.addEventListener('click', (event)=>{
+    //     event.preventDefault()
+    // })
+    
+    aTag.addEventListener('click', (event)=>{
+        alert('prevented!!'),
+        console.log('log!!'),
+        event.preventDefault('prevent')  
+    });
+   
 
     
-    aTag.classList.add('purple')
-    aTag.classList.add('big','bold')
-    
-    addEventListener('click', () => {
-      changeFont()
-    } )
 
-    sdfasdf
-    
+
   </script>
 </body>
 </html>
