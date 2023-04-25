@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>인기 영화들</h1>
+  <ul>
+
+  </ul>
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script>
+    const ul = document.querySelector('ul')
+    const movieURL = 'https://api.themoviedb.org/3/movie/popular/'
+    const popularMovies = []
+
+    axios.get(movieURL, {params: {
+      api_key: 'API 키 추가',
+      language: 'ko-KR',
+      page: '1'
+    }})
+    .then(res => {
+      for (movie of res.data.results) {
+        if(movie.vote_average >= 8) {
+          popularMovies.push(movie)
+          console.log(movie)
+        }
+      }
+      popularMovies.forEach(movie => {
+        const li = document.createElement('li')
+        li.innerText = movie.title
+        ul.appendChild(li)
+      })
+    }).catch(err => console.log(err))
+
+    // axios.get('https://api.themoviedb.org/3/movie/popular/?API 키 추가&language=ko-KR&page=1')
+    // .then(res => console.log(res))
+    // .catch(err => console.log(err))
+
+
+  </script>
+</body>
+</html>

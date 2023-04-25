@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        const TOP_RATED_MOVIES = "https://api.themoviedb.org/3/movie/popular?api_key=ed10ff9060887ab8821722da98e6c629&language=en-US&page=1"
+        const h1 = document.createElement('h1')
+        h1.innerText = '인기 영화들'
+        document.body.appendChild(h1)
+        
+        const ul = document.createElement('ul')
+        document.body.appendChild(ul)
+        
+
+        axios({
+            method : 'get',
+            url : TOP_RATED_MOVIES
+        })
+        .then((response)=> {
+            const movie_titles = response.data.results
+            console.log(movie_titles)
+            movie_titles.forEach(element => {
+                console.log(element)
+                if (element.vote_average>=8) {
+                   const li = document.createElement('li')
+                    li.innerText = element.original_title
+                    ul.appendChild(li) 
+                }
+                
+                
+            });
+        })
+        
+        
+    </script>
+
+</body>
+</html>
