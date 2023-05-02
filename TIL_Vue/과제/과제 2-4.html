@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="-1" />
+  <meta charset="utf8">
+  <title>Hello, world</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.7.8/dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+  <h1>테스트</h1>
+  <h3>{{message}}</h3>
+  <input  @input="onInput" type="text">
+  <button @click="palindrome">확인하기</button>
+</div>
+
+<script type="text/javascript">
+    var app = new Vue({
+        el : '#app',
+        data: {
+          message: '',
+        },
+        methods: {
+          onInput: function (event){
+            this.message = event.target.value
+          },
+          palindrome: function(){
+            const word = this.message
+            if (word!=='' && word === word.split('').reverse().join('')){
+              alert('회문입니다.')
+            } else if (word!=='' && word !== word.split('').reverse().join('')){
+              alert('회문이 아닙니다.')
+            } else{
+              alert('비어있습니다.')
+            }
+          },
+        }
+      })
+</script>
+
+</body>
