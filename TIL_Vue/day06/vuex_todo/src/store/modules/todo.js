@@ -78,12 +78,6 @@ const todo = {
 
     changeClassStatus (context, select) {
       context.commit('CHANGE_CLASS_STATUS', select)
-    },
-
-    createTodo(context,data) {
-      //Todo Object 생성하기
-      const todo = None
-      commit('ADD_TODO', todo)
     }
   },
 }

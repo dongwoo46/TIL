@@ -7,10 +7,12 @@
 </template>
 
 <script>
+import TodoCreateForm from '@/components/TodoCreateForm.vue'
 import TodoList from '@/components/TodoList.vue'
 export default {
   components : {
     TodoList,
+    TodoCreateForm,
   },
   computed: {
     allTodoList() {
