@@ -1,5 +1,4 @@
 import sys
-
 sys.stdin = open('input','r')
 
 def paper(x,y,n):
