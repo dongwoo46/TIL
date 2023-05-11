@@ -25,8 +25,7 @@ for i in s:
     else:
         if string[-1] != i:
             string+=i
-            if i == 'O':
-                cnt+=1
+
         else:
             result.append(string)
             result_cnt.append(cnt-n+1)
@@ -36,12 +35,10 @@ for i in s:
                 string+=i
 else:
     result.append(string)
-    result_cnt.append(cnt-n+1)
+
 
 print(result)
-print(result_cnt)
 
-print(sum(result_cnt))
 # OOIOIOIOIIOIIOIOIOIO
 # end = len(p)-1
 # for start in range(m-len(p)+1):
