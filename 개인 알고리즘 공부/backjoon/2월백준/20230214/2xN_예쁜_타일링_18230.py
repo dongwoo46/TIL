@@ -12,7 +12,8 @@ result=0
 
 for an,bn in box_num:
     max_num=0
-    if an>a or bn>b: continue
+    if an>a or bn>b:
+        continue
     for i in range(an):
         max_num+=a_box[i]
     for i in range(bn):
