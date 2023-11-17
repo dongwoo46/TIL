@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e741e736-599d-4b9f-93e1-596e88da3de3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/TIL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/.idea/개인 알고리즘 공부.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/1945.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/1976.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/1989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/card_4834.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/continued1_9386.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/counting_sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/electronicbus_4831.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/flatten_1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/growing_carrot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/len_wide_ diag_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/new_bus_station.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/painting_4836.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/prefix_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/samsungbuys_6485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/subset_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/swea_1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/train_between_fly_6019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230206/view_20230201.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/find_book_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/ladder_1210.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/snailnumber_1954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230207/special_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/balloonpang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/compare_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/ironbar_cutting_5432.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/kill_flies_2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/palindrome_4861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/speak_col_5356.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230208/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/GNS_1221.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/fastest_typing_3143.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/palindrome1_1215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/sdoqu_1974.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/stringcount_4865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230209/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/dasol_diamond_4751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/ladder2_1211.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/number_rotation_1961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/palindrome2_1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230210/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/24시간_12368.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/거듭제곱_1217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/괄호검사_4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/반복문자지우기_4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/비밀번호_1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230213/파스칼삼각형_2005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/그래프경로_4871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/그래프경로_4871_인접리스트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/그래프경로_4871_인접행렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/길찾기_1219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230214/종이붙이기_4869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/Forth_4874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/miro_by_professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/미로1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230215/미로_4875.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/계산기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/계산기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/배열최소합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/배열최소합_4881.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230216/토너먼트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/계산기3_1224.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/고대 유적.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/백만장자프로젝트_1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/우주선착륙2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/자기 방으로 돌아가기_4408.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230217/재미있는 오셀로 게임_4615.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230220/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230220/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230220/피자굽기_5099.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230220/피자굽기_5099_리스트이용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230220/회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/Contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/노드의 거리_5102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/미로1_1226.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/미로_4875.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/미로의 거리_5105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230221_bfs/암호생성기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230222/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230222/subtree_5174.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230222/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230222/이진탐색_5176.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230222/중위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230223/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230223/노드의합_5178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230223/사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230223/이진 힙_5177.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230223/탈주범 검거.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230227_이진법/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230227_이진법/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230227_이진법/단순2진암호코드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230227_이진법/이진수2_5186.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230227_이진법/이진수_5185.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230228/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230228/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202302/20230228/암호코드스캔_1242.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/농작물수확하기_2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/세제곱근을 찾아라_5688.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/오목.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/오목_교수님풀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/원재의 메모리 복구하기_1289.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230301_혼자문제풀기/정사각형 방_1861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230302/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230302/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230302/진기의 최고급 붕어빵_1860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230302/파리퇴치3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230302/풍선팡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/1267 작업순서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/1959. 두 개의 숫자열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/1970. 쉬운 거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/4466. 최대 성적표 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/5431. 민석이의 과제 체크하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/6190. 정곤이의 단조 증가하는 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/Magnetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230303/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/1258 행렬찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/22년 IM문제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/4613. 러시아 국기 같은 깃발.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/배틀필드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/새로운 불면증 치료법.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230305/현주의 상자 바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230306/16811.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230306/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230308/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230308/탈주범검거 1953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230309/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230309/홈 방범 서비스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/swea 5202 doke.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/swea babyjin 5203.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/swea bubnsuyul hap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/swea container carry 5201.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/swea max reward.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230328/최대 상금.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/n queen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea 5207.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea dongcul.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea electronic bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea janghoon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea mergesort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea min produce price 5209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230330/swea quicksort 5205 16936.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea babygin game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea bank work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea board numb paste.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea chef.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea hambergur diet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea janghoon high shelf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/202303/20230331/swea swimming pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230403/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230403/swea 5247 연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230403/swea 그룹나누기 5248.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230403/최소합 5188.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230404/SWEA 최소 이동 거리 5251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230404/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230404/swea 그룹나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230404/swea 최소비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/SWEA/20230404/swea 최소신장트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/backjoon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/1145 RGB거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/1904 01타일.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/1912 연속합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/24416 피보나치수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/202307/신나는 함수 실행 9184.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230209/editor_1406.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230209/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/DNA_1969.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/거듭제곱_1740.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/소수_1312.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/수들의합_2018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/약수_1037.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230211/좋은구간_1059.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230212/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230212/음계_2920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230212/좌표정렬하기_11650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230212/펠린드롬수_1259.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/java_vs_c++_3613.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/나이순정렬_10814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/돌게임_9655.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/오리_12933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230213/체스판다시칠하기_1018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230214/2xN_예쁜_타일링_18230.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230214/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230214/타일링_1793.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230216/N-Queen_9663_풀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/색종이_2563.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/수 찾기_1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/수정렬하기2_2751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230217/스택 수열_1874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/로또.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/수정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/알고리즘수업_24479.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230218/후위표기식_1918.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230220/모든스택수열_23284.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230221/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230221/미로 탐색_2178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230222/2xn타일링2_11727.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230222/DFS와 BFS_1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230222/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230222/터렛_1002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230227/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230227/스위치켜고끄기_1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230228/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230228/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/20230228/참외밭_2477.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/10282.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/1181.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/1439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/2571.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/bracket_9012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/change_5585.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/magicsqure_15739.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/make1_1463.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/2월백준/before_20230208/stack_10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/개미_10158.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/딱지놀이_14696.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/방배정_13300.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/빙고_2578.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/색종이_10163.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/수열_2559.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230302/일곱 난쟁이_2309.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230303/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230303/수 이어가기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230303/유기농배추_1012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/경비원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/수 이어가기 2635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/자리배정_10157.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/종이자르기 2628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/줄세우기_2605.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/직사각형 2527.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/직사각형 네개의 합집합의 면적 구하기_2669.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230304/창고 다각형_2304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/기상캐스터 10709.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/도로와 신호등 2980.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/롤 케이크 3985.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/블랙잭 2798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/색종이 - 2 2567.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230305/주사위 쌓기_2116.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/3085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/보물 1026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/선분과 점 11664.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/에라토스테스의 체 2960.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230306/탄소화합물 1907.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230307/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230307/계단오르기 2579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230308/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230308/통계학.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/분해합 2231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/숫자카드2 10816.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/잃어버린괄호 1541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230309/직사각형에서 탈출 1085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230310/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230310/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230310/균형잡힌세상 4949.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230310/덩치 7568.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230311/AC 5430.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230311/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230311/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230311/카드2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N-queen 9663.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(10).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(11).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(12).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(6).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(7).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(8).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/N과M(9).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/로또 6603.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230313 n과m/바이러스 2606.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230314/fly me to the alpha centauri 1011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230314/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230314/최소공배수최대공약수 2609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/덱 10866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/수 정렬하기 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/요세푸스 문제 0 11866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/이항 계수 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/직각삼각형 4135.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230315/큐 10845.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/단지번호붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/숨바꼭질 1697.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/토마토 7569.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230316/토마토 7576.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230317/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230317/과제안내신분.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230317/나무 자르기 2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230317/나이트의 이동 7562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230317/영화감독 숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230318/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230318/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230318/제로 10773.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230318/펠린드롬인지 확인하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230318/프린터큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230319/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230319/랜선 자르기 1654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230320/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230320/마인크래프트 18111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230320/영화감독 숌 1436.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230320/좌표 정렬하기 2 11651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230321/Hashing 15829.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230321/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230322/1,2,3 더하기 9095.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230322/ATM 11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230322/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230322/동전 0 11047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230322/피보나치 함수 1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230323/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230323/구간합 11659.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230323/최대 힙 11279.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230323/최소힙 1927.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230324/구간합 구하기4 11659.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230325/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230325/집합 11723.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230326/나는야 포켓몬 마스터 이다솜 1620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/baby gin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/backjoon 18870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/minimumsum 5188.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230327/회의실 배정 1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230328/backjoon 1676.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230328/backjoon 17219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230328/backjoon 1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230328/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230328/연결 요소의 개수 11724.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/backjoon 1074.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/backjoon 7662.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/backjoon 색종이 만들기 2630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/backjoon2630-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/백준 z 1074.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230330/이중 우선순위 큐 7662.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230331/backjoon 7662.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/3월백준/20230331/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230404/backjoon 적록색약 10026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230404/backjoon 파도반 수열 9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230404/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230404/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230405/backjoon for squares 17626.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230405/backjoon 패션왕 신해빈 9375.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230405/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/10815.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/7785.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon  소트인사이드 1427.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon  수학은 비대면강의입니다 19532.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon 10708.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon 너의 평점은 25206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon 문자열 집합 14425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon 종이의 개수 1780.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/backjoon 종이의 개수 1780_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230406/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230407/backjoon 최단경로 1753.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230407/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230407/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230408/backjoon 가장 긴 증가하는 부분 수열 11053.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230408/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230408/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230416/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230416/쿼드트리 1992.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230423/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230423/백준 IOIOI 5525.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230424/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230424/백준 11403 경로 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230427/IOIOI_5525.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230427/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230429_1550/IOIOI_5525.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/4월백준/20230429_1550/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/20230503.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/11403.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230503/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230509/절대 힙 11286.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230510/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230510/카잉 달력 6064.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230510/카잉달력2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230510/케빈베이컨의 6단계 법칙 1389.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230520/1107 리모컨.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230520/16928 뱀과 사다리게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230520/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230520/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230531/DSLR 9019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230531/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230531/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/5월백준/20230531/테트로미노 14500.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/N-Queen_9663.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/editor_1406.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/java_vs_c++_3613.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/로또.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/색종이2_2567.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/알고리즘수업_24479.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/오리_12933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/backjoon/should_solve_again/조 짜기 2229.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/Brute_Force.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/DFS_professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/DFS_연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/KMP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/backtracking_순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/binarysearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/bubblesort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/bubunjiphap hap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/comb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/countingsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/dfs연습 교수님풀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/selectionsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/backtracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/kmp 알고리즘.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/계수정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/구간합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/그래프 인접리스트 인접행렬 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/다익스트라 방법1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/다익스트라 방법2!!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/벨만 포드 알고리즘.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/부분집합의 합이 key와 같은 부분집합 출력.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/부분집합의 합이 key와 같은 부분집합이 있으면 1 아니면 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/부분집합의 합이 key인 부분집합 +가지치기하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/부분집합의합이 key인 부분집합의 수는 몇개.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/비트연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/삽입 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/선택정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/소수판별 알고리즘.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/에라토스테네스의 체.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/위상정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/이진트리 순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/정렬된 두 리스트의 합집합(정렬하는것).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/최대 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/최소 힙 삽입.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/최소신장트리(크루스칼).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/투 포인터.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/플로이드 워셜.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/나만의 정리/힙 정렬 힙라이브러리 이용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/다익스트라 교수님.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/병합정렬 by교수님.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/부분집합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/부분집합구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/부분집합의합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/분할정복알고리즘.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/비트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/순열만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/유니온파인드 구현.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/최소신장트리(MST) 구현 교수님.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/퀵정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/힙연산_삭제_최대힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/힙연산_삽입_최대힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/coding/힙연산_삽입_최소힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/leetcode/202307/137 singlenumber2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/leetcode/202307/209 minimum size subarray sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/leetcode/202307/35 Search Insert Position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/leetcode/Valid_Paratheses_leetcode.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/programmers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230410/이모티콘 할인행사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/20230411.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/비밀지도.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/실패율.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/전화번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/20230411/크레인 인형만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/코딩테스트 고득점 KIT/해시/포켓몬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/개인정보 수집 유효기간.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/다트게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/로또의 최고순위와 최저순위.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/성격유형검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/숫자 문자열과 영단어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/신고 결과 받기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/신규 아이디 추천.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/programmers/프로그래머스 카카오기출 lv1/키패드 누르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/연습문제/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/연습문제/tree 연습문제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/연습문제/연산자_피연산자_정리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/연습문제/전위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../개인 알고리즘 공부/연습문제/진수 잘라서 변환.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YI5yfFoAfciYLISVQb27A8S66a" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e741e736-599d-4b9f-93e1-596e88da3de3" name="Changes" comment="" />
+      <created>1700200513181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700200513181</updated>
+      <workItem from="1700200516002" duration="190000" />
+      <workItem from="1700200723138" duration="54000" />
+      <workItem from="1700200871794" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
